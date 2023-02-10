@@ -1,4 +1,4 @@
-# SportingGroupAPI
+# BettingAPI
 Requirements
 	.NET Core 3.1 or later
 
